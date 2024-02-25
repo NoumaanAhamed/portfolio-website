@@ -2,23 +2,8 @@ import Link from "next/link"
 import { Spotlight } from "./ui/Spotlight"
 import { Button } from "./ui/moving-border";
 import { SparklesCore } from "./ui/sparkles";
-import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
-import { TextRevealCard, TextRevealCardDescription, TextRevealCardTitle } from "./ui/text-reveal-card";
 
 function HeroSection() {
-    const words = [
-        {
-            text: "Hi,",
-        },
-        {
-            text: "I'm",
-        },
-
-        {
-            text: "Noumaan.",
-            className: "text-blue-500 dark:text-blue-500",
-        },
-    ];
     return (
         <div
             className="h-auto md:h-[45rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0"
