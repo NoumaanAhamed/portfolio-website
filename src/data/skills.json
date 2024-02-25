@@ -1,0 +1,98 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "JavaScript / TypeScript",
+      "description": "Versatile programming languages commonly used for web development.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "description": "High-level, general-purpose programming language known for its readability.",
+      "imageLink": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
+    },
+
+    {
+      "id": 4,
+      "name": "MongoDb",
+      "description": "Object-oriented programming language, widely used for enterprise applications.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+    },
+    {
+      "id": 5,
+      "name": "SQL",
+      "description": "Structured Query Language for managing and manipulating relational databases.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"
+    },
+    {
+      "id": 6,
+      "name": "C/C++",
+      "description": "Versatile languages used for system/software development and game development.",
+      "imageLink": ""
+    },
+    {
+      "id": 7,
+      "name": "Solidity",
+      "description": "Programming language for developing smart contracts on blockchain platforms.",
+      "imageLink": ""
+    },
+    {
+      "id": 8,
+      "name": "AWS",
+      "description": "A Cloud platform.",
+      "imageLink": ""
+    },
+
+    {
+      "id": 10,
+      "name": "PostgreSQL",
+      "description": "Open-source relational database management system.",
+      "imageLink": ""
+    },
+
+    {
+      "id": 13,
+      "name": "Docker",
+      "description": "Platform for developing, shipping, and running applications in containers.",
+      "imageLink": ""
+    },
+    {
+      "id": 14,
+      "name": "Redis",
+      "description": "In-memory data structure store used as a database, cache, and message broker.",
+      "imageLink": ""
+    },
+    {
+      "id": 15,
+      "name": "ReactJS",
+      "description": "JavaScript library for building user interfaces.",
+      "imageLink": ""
+    },
+    {
+      "id": 16,
+      "name": "Express JS",
+      "description": "Web application framework for Node.js.",
+      "imageLink": ""
+    },
+    {
+      "id": 17,
+      "name": "Node JS",
+      "description": "JavaScript runtime for server-side programming.",
+      "imageLink": ""
+    },
+    {
+      "id": 18,
+      "name": "NextJS",
+      "description": "React framework for building static and dynamic web applications.",
+      "imageLink": ""
+    },
+
+    {
+      "id": 21,
+      "name": "Git/Github",
+      "description": "Version control system and platform for collaborative software development.",
+      "imageLink": ""
+    }
+  ]
+}
