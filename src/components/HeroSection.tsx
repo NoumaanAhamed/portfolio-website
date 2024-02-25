@@ -16,7 +16,7 @@ function HeroSection() {
                 {/* change the margin top */}
                 <h1
                     className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400"
-                >Hi, I'm Noumaan.</h1>
+                >Hi, I&apos;m Noumaan.</h1>
 
 
                 {/* <div className="flex items-center justify-center m-4">
